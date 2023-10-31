@@ -1,5 +1,14 @@
 # Fund-Me-Project
 
+## About the project
+
+The idea behind my project is to be able to
+
+1. Get funds from users by allowing users to send money to the contract.
+2. Set a minimum funding value in USD and also,
+3. Withdraw the funds.
+
+
 # Getting Started
 
 ## Requirements
